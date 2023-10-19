@@ -1,47 +1,47 @@
-﻿﻿internal class Program
+﻿﻿using System;
+
+class Program
 {
-    private static void Main(string[] args)
+    static void Main()
     {
-        void InputArray(string[] array)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                Console.Write($"Добавьте {i} элемент в массив: ");
-                array[i] = Console.ReadLine();
-            }
-        }
-
-        int IndexArray(string[] array)
-        {
-            int result = 0;
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (array[i].Length <= 3)
-                    result++;
-            }
-            return result;
-        }
-
-        void OutputArray(string[] array,string[] resultArray)
-        {
-            int count = 0;
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (array[i].Length <= 3)
-                {
-                    resultArray[count] = array[i];
-                    count++;
-                }
-            }
-        }
-
         Console.Clear();
-        Console.Write("Введите кол-во элементов в массиве: ");
-        int n = Convert.ToInt32(Console.ReadLine());
-        string[] array = new string[n];   
-        InputArray(array);
-        string[] resultArray = new string[IndexArray(array)];
-        OutputArray(array, resultArray);
-        Console.WriteLine($"Результат: [{string.Join(", ", array)}] -> [{string.Join(", ", resultArray)}] ");
+
+        Console.Write("Введите строки, разделенные пробелом: ");
+        string input = Console.ReadLine();
+        string[] inputStrings = input.Split(' ');
+
+        string[] shortStrings = FilterShortStrings(inputStrings);
+
+        Console.WriteLine("Результат:");
+        foreach (string str in shortStrings)
+        {
+            Console.WriteLine(str);
+        }
+    }
+
+    static string[] FilterShortStrings(string[] inputStrings)
+    {
+        int count = 0;
+        for (int i = 0; i < inputStrings.Length; i++)
+        {
+            if (inputStrings[i].Length <= 3)
+            {
+                count++;
+            }
+        }
+
+        string[] shortStrings = new string[count];
+        int currentIndex = 0;
+
+        for (int i = 0; i < inputStrings.Length; i++)
+        {
+            if (inputStrings[i].Length <= 3)
+            {
+                shortStrings[currentIndex] = inputStrings[i];
+                currentIndex++;
+            }
+        }
+
+        return shortStrings;
     }
 }
