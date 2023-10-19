@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/SSMPHMAO.LOCAL/fominvv/.dotnet/store/|arch|/|tfm|",
+      "/home/SSMPHMAO.LOCAL/fominvv/.nuget/packages",
+      "/usr/lib64/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}

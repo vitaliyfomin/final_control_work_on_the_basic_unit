@@ -1,0 +1,11 @@
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/bin/Debug/netcoreapp3.1/task04
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/bin/Debug/netcoreapp3.1/task04.deps.json
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/bin/Debug/netcoreapp3.1/task04.runtimeconfig.json
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/bin/Debug/netcoreapp3.1/task04.runtimeconfig.dev.json
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/bin/Debug/netcoreapp3.1/task04.dll
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/bin/Debug/netcoreapp3.1/task04.pdb
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/obj/Debug/netcoreapp3.1/task04.csprojAssemblyReference.cache
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/obj/Debug/netcoreapp3.1/task04.AssemblyInfoInputs.cache
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/obj/Debug/netcoreapp3.1/task04.AssemblyInfo.cs
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/obj/Debug/netcoreapp3.1/task04.dll
+/run/media/fominvv/FOMIN-VV/GB_Учеба/Fin_01/final_control_work_on_the_basic_unit/task04/obj/Debug/netcoreapp3.1/task04.pdb
