@@ -1,0 +1,15 @@
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\bin\Debug\net6.0\task04.exe
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\bin\Debug\net6.0\task04.deps.json
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\bin\Debug\net6.0\task04.dll
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\bin\Debug\net6.0\task04.pdb
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.dll
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\refint\task04.dll
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.pdb
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
+D:\GB_Учеба\fin_01\final_control_work_on_the_basic_unit\task04\obj\Debug\net6.0\ref\task04.dll
